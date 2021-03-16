@@ -11,3 +11,5 @@ competências que a tecnologia oferece para lidar com o mundo digital.
   <a href="https://www.linkedin.com/in/uanderson-nascimento-santarem-4b1556171/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://pt.stackoverflow.com/users/227266/uanderson-santarem"><img src="https://img.shields.io/badge/-StackOverflow-E4405F?style=flat&logo=StackOverflow&logoColor=white&color=green"/></a>
   </p>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uanderns)
