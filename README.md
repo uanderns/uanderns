@@ -1,4 +1,4 @@
-:computer: # **Uanderson Santarem**
+:computer:  **Uanderson Santarem**
 
 Sou apaixonado por tecnologia e gosto da praticidade que ela traz à nossas vidas
 e da forma de como soluciona problemas. Procuro sempre aprender novas
